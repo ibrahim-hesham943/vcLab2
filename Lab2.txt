@@ -5,7 +5,11 @@ hima file line 1
 
 new line yehia
 
+<<<<<<< HEAD
 new line hima
 
 
 new line for revert
+=======
+new line hima
+>>>>>>> parent of 49d12bc (for revert)
